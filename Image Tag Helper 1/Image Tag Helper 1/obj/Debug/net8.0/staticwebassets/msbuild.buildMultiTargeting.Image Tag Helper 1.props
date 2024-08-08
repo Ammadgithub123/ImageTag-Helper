@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Image Tag Helper 1.props" />
+</Project>

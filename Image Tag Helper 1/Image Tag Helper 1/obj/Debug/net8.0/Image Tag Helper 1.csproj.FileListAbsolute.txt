@@ -1,0 +1,30 @@
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\bin\Debug\net8.0\appsettings.Development.json
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\bin\Debug\net8.0\appsettings.json
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\bin\Debug\net8.0\Image Tag Helper 1.staticwebassets.runtime.json
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\bin\Debug\net8.0\Image Tag Helper 1.exe
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\bin\Debug\net8.0\Image Tag Helper 1.deps.json
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\bin\Debug\net8.0\Image Tag Helper 1.runtimeconfig.json
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\bin\Debug\net8.0\Image Tag Helper 1.dll
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\bin\Debug\net8.0\Image Tag Helper 1.pdb
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\Image Tag Helper 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\Image Tag Helper 1.AssemblyInfoInputs.cache
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\Image Tag Helper 1.AssemblyInfo.cs
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\Image Tag Helper 1.csproj.CoreCompileInputs.cache
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\Image Tag Helper 1.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\Image Tag Helper 1.RazorAssemblyInfo.cache
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\Image Tag Helper 1.RazorAssemblyInfo.cs
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\staticwebassets.build.json
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\staticwebassets.development.json
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\staticwebassets\msbuild.Image Tag Helper 1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\staticwebassets\msbuild.build.Image Tag Helper 1.props
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Image Tag Helper 1.props
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Image Tag Helper 1.props
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\scopedcss\bundle\Image Tag Helper 1.styles.css
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\scopedcss\projectbundle\Image Tag Helper 1.bundle.scp.css
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\Image Tag Helper 1.dll
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\refint\Image Tag Helper 1.dll
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\Image Tag Helper 1.pdb
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\Image Tag Helper 1.genruntimeconfig.cache
+E:\ASP.NET CORE\Image Tag Helper\Image Tag Helper 1\Image Tag Helper 1\obj\Debug\net8.0\ref\Image Tag Helper 1.dll
